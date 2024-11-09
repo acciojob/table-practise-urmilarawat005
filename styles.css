@@ -1,1 +1,31 @@
 /*  your css code here. If applicable */
+table {
+			background-color: yellow;
+			/* border-collapse: collapse; */
+		}
+		
+		th, tr, td {
+			border: 2px  solid black;
+			font-size:40px;
+		
+		
+	
+			
+		}
+    table{
+			border: 1px solid black;
+			font-size:30px
+			
+		}
+		
+		th {
+			padding: 15px;
+		}
+		
+		td {
+			padding: 15px;}
+caption{
+	font-size:40px
+}
+		
+		
